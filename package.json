@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/minhnguyen0712/testing-library/issues"
   },
-  "homepage": "https://github.com/minhnguyen0712/testing-library#readme"
+  "homepage": "https://github.com/minhnguyen0712/testing-library#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
