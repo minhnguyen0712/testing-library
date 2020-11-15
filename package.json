@@ -1,0 +1,22 @@
+{
+  "name": "testing-library",
+  "version": "1.0.0",
+  "description": "Testing this library to publish to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhnguyen0712/testing-library.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Minh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhnguyen0712/testing-library/issues"
+  },
+  "homepage": "https://github.com/minhnguyen0712/testing-library#readme"
+}
